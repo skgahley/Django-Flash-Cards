@@ -1,7 +1,7 @@
 import os
 import django_heroku
 import dj_database_url
-from decouple import comfig
+from decouple import config
 
 """
 Django settings for flash project.
